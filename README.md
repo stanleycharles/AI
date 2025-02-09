@@ -1,4 +1,4 @@
-Foundation Models
+Generative AI
 - Deepseek R1 : https://github.com/deepseek-ai/DeepSeek-R1/tree/main
 - Llama by Meta : https://github.com/meta-llama/llama
 - Claude by Anthropic : https://www.anthropic.com
@@ -6,6 +6,10 @@ Foundation Models
 - MistralAI : https://mistral.ai
 - Gemini by Google : https://gemini.google.com
 - Copilot by Microsoft : https://copilot.microsoft.com
+
+Tools
+- Ollama : https://ollama.com
+- LM Studio : https://lmstudio.ai
 
 Community
 - Huggingface.co : https://huggingface.co
