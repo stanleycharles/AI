@@ -10,6 +10,7 @@ Generative AI
 Tools
 - Ollama : https://ollama.com
 - LM Studio : https://lmstudio.ai
+- ML C02 Impact : https://mlco2.github.io/impact
 
 Community
 - Huggingface.co : https://huggingface.co
